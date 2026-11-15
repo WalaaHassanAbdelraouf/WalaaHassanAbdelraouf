@@ -1,16 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Walaa%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
-</p>
-
-<h1 align="center">Hello 👋, I'm Walaa Hassan</h1>
-
-<h3 align="center">
-  Data Science Graduate | AI & Machine Learning Enthusiast
-</h3>
 
 <p align="center">
-  Passionate about turning data into insights
-  and building intelligent solutions.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B3A,50:5141A5,100:00BFFF&height=220&section=header&text=Hello,%20I'm%20Walaa%20Hassan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=55&descSize=16" width="100%" />
 </p>
 
 ---
