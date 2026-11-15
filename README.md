@@ -81,7 +81,7 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/walaa-hassan-68934627b/L)">
+  <a href="https://www.linkedin.com/in/walaa-hassan-68934627b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:wh1368437@gmail.com">
