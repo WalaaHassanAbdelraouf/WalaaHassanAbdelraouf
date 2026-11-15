@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="./ai-header.png" width="100%" alt="Walaa Hassan - AI & Data Science Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Walaa%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Walaa Hassan</h1>
@@ -63,7 +61,7 @@
 
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center"> GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=WalaaHassanAbdelraouf&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -72,7 +70,7 @@
 
 
 
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
+<h2 align="center"> GitHub Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WalaaHassanAbdelraouf&theme=tokyonight&hide_border=true" />
@@ -92,10 +90,4 @@
   <a href="https://github.com/WalaaHassanAbdelraouf">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile! 😊
 </p>
