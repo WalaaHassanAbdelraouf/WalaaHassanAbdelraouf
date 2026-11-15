@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Walaa%20Hassan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
+  <img src="./ai-header.png" width="100%" alt="Walaa Hassan - AI & Data Science Banner"/>
 </p>
 
 <h1 align="center">Hello 👋, I'm Walaa Hassan</h1>
