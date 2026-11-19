@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - Hold a Bachelor's Degree in Data Science.
 - With a deep passion for Data Science, Data Analytics, and AI.
